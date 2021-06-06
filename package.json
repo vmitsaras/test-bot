@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vmitsaras/test-bot/issues"
   },
-  "homepage": "https://github.com/vmitsaras/test-bot#readme"
+  "homepage": "https://github.com/vmitsaras/test-bot#readme",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
+  }
 }
