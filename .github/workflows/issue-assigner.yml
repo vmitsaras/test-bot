@@ -8,5 +8,5 @@ jobs:
     steps:
     - uses: estrada9166/issue-assigner@v1
       with:
-        GITHUB_TOKEN: "${{ secrets.issue-assigner }}"
+        GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         WITH_COMMENTS: true
