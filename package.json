@@ -1,18 +1,19 @@
 {
-  "version": "0.2.0",
   "name": "test-bot",
-  "homepage": "https://github.com/vmitsaras/test-bot",
-  "author": {
-    "name": "Vasileios Mitsaras",
-    "email": "me@vasileios-mitsaras.com"
+  "version": "0.2.0",
+  "description": "A test repo for github actions and apps",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/vmitsaras/test-bot.git"
+    "url": "git+https://github.com/vmitsaras/test-bot.git"
   },
-  "license": "MIT",
+  "author": "Vasilis Mitsaras",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vmitsaras/test-bot/issues/"
+    "url": "https://github.com/vmitsaras/test-bot/issues"
   },
-  "main": "main.js"
+  "homepage": "https://github.com/vmitsaras/test-bot#readme"
 }
