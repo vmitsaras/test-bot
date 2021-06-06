@@ -8,9 +8,9 @@ customElements.define('element-details',
     constructor() {
       super();
       const template = document
-        .getElementById('element-details-template')
+        .getElementById("element-details-template")
         .content;
-      const shadowRoot = this.attachShadow({mode: 'open'})
+      const shadowRoot = this.attachShadow({mode: "open"})
         .appendChild(template.cloneNode(true));
     }
   }
