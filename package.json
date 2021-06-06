@@ -1,0 +1,18 @@
+{
+  "version": "0.0.1",
+  "name": "test-bot",
+  "homepage": "https://github.com/vmitsaras/vm-video",
+  "author": {
+    "name": "Vasileios Mitsaras",
+    "email": "me@vasileios-mitsaras.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vmitsaras/test-bot.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vmitsaras/test-bot/issues/"
+  },
+  "main": "main.js"
+}
