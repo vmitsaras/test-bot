@@ -1,6 +1,6 @@
 {
   "name": "vmitsaras-test-bot",
-  "version": "0.2.6",
+  "version": "0.2.7",
   "description": "A test repo for github actions and apps",
   "main": "main.js",
   "scripts": {
